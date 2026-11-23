@@ -6,7 +6,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4%2B-orange.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2%2B-150458.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
